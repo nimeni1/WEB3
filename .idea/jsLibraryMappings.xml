@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/app" libraries="{WEB3-master-c1400f1f5bee69d3e4592d55fa17d0427e532236/app/node_modules}" />
+  </component>
+</project>
